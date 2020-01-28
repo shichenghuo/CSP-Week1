@@ -1,7 +1,7 @@
 # CSP-Week1
  Deconstruction Practice
 Project 1: Nike Running Stadium - https://www.youtube.com/watch?v=F67V5J40hv8
-Data：
+- Data
 - The postition of the runner
 - The pace of the runner
 - The time of running a lap
